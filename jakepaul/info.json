@@ -1,9 +1,8 @@
 {
     "AUTHOR" : "DavidTechnoboy",
+    "INSTALL_MSG" : "It's Everyday Bro! http://i.imgur.com/F7IOgbW.jpg",
+    "NAME" : "jakepaul",
     "SHORT" : "It's Everyday Bro! Dab on the haters!",
     "DESCRIPTION" : "It's Everyday Bro! Dab on the haters!",
-    "DISABLED" : false,
-    "NAME" : "jakepaul",
-    "TAGS" : ["savage" "dab" "lit"],
-    "INSTALL_MSG" : "BECOME A JAKEPAULER https://www.youtube.com/user/JakePaulProductions"
+    "TAGS" : ["savage", "dab", "lit"]
 }
