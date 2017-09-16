@@ -40,17 +40,22 @@ class jakepaul:
     @commands.command()
     async def jakepaulthemesong (self):
         
-        await self.bot.say("JAKE PAULERS KEEP IT LIT! ( ͡° ͜ʖ ͡°) https://www.youtube.com/watch?v=D7_9b20qs1w")
-		
+        await self.bot.say("JAKE PAULERS KEEP IT LIT! ( ͡° ͜ʖ ͡°) https://www.youtube.com/watch?v=I0Se3ce433Q")
+	
+    @commands.command()
+    async def itseverynightsis (self):
+        
+        await self.bot.say("ITS EVERYNIGHT SIS! ( ͡° ͜ʖ ͡°) https://www.youtube.com/watch?v=-Zy28mVeVZw")
+	
     @commands.command()
     async def dabonhaters (self):
         
         await self.bot.say("DO YOU DAB ON THEM HATERS? ( ͡° ͜ʖ ͡°) https://imgur.com/a/CKsco")
-		
+	
     @commands.command()
-    async def praytogod (self):
+    async def jakepaulpray (self):
         
-        await self.bot.say(":pray: https://i.imgur.com/Fndgpwy.png")
+        await self.bot.say("https://i.imgur.com/Fndgpwy.png")
 
 def setup(bot):
     bot.add_cog(jakepaul(bot))
