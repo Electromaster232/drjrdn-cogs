@@ -50,7 +50,7 @@ class jakepaul:
     @commands.command()
     async def dabonhaters (self):
         
-        await self.bot.say("DO YOU DAB ON THEM HATERS? ( ͡° ͜ʖ ͡°) https://imgur.com/a/CKsco")
+        await self.bot.say("DAB ON THE HATERS! ( ͡° ͜ʖ ͡°) https://imgur.com/a/CKsco")
 	
     @commands.command()
     async def jakepaulpray (self):
